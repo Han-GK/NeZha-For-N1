@@ -19,4 +19,4 @@
 # 致谢
 原作者[@naiba](https://github.com/naiba)
 
-源项目: https://github.com/naiba/nezha
+原项目: https://github.com/naiba/nezha
